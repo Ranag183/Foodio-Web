@@ -77,6 +77,4 @@ Check out this amazing app today
 
         npm start
 
-## Connect With Me
-  * [Twitter](https://twitter.com/manishdevrani77)
-  * [Github](https://github.com/manish591)
+
